@@ -1,0 +1,33 @@
+_repo: An-account-of-some-recent-discoveries-in-hieroglyphical-literature-and-Egyptian-antiquities-i__74347
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Young, T. F. (Thomas Frederick)
+    aliases:
+    - Young, Thomas Frederic‏
+    - Young, Thomas Frederick
+    deathdate: 1940
+    gutenberg_agent_id: '2273'
+    url: http://www.gutenberg.org/2009/agents/2273
+description: ''
+gutenberg_issued: '2024-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74347'
+language: en
+pgterms:marc904: https://archive.org/details/bub_gb_TkAGAAAAQAAJ/page/n11/mode/2up
+pgterms:marc905: 20220429163252young
+pgterms:marc906: '1823'
+pgterms:marc907: UK
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUK :$bJohn Murray, $c1823.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An account of some recent discoveries in hieroglyphical literature, and Egyptian
+  antiquities including the author's original alphabet, as extended by Mr. Champollion,
+  with a translation of five unpublished Greek and Egyptian manuscripts
+url: http://www.gutenberg.org/ebooks/74347
